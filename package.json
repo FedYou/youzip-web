@@ -1,0 +1,8 @@
+{
+  "name": "youzip-web",
+  "version": "1.0.0",
+  "description": "Zip file compression and decompression with the JSZip API",
+  "main": "index.js",
+  "author": "FedYou",
+  "license": "MIT"
+}
